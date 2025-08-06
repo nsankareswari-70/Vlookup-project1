@@ -12,6 +12,11 @@ Solution: We can avoid this by using Iferror() in Excel
 =IFERROR(VLOOKUP(K3,A3:D15,3,FALSE),"Not found")   
 ![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/d3b12d91e247588be2717ecbea9a0d31a3317ac1/ex90.png)   
 
+## Find the number of customers for Josh using vlookup()
+=VLOOKUP(K6,A3:D15,2,FALSE)     
+
+
+
 
 
 
