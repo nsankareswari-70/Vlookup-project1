@@ -14,6 +14,8 @@ Solution: We can avoid this by using Iferror() in Excel
 
 ## Find the number of customers for Josh using vlookup()
 =VLOOKUP(K6,A3:D15,2,FALSE)     
+![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/06d8886425c96e2098770259ad85a86f1edd25c4/ex91.png)
+
 
 
 
