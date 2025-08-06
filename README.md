@@ -19,6 +19,8 @@ Solution: We can avoid this by using Iferror() in Excel
 ## To find the location of a particular value in a range and get its index - We use the Match function
 
 =MATCH(K9,C3:C15,0)   
+![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/ac53835e3c617048f29ebfc0ce92c97f123578ad/ex92.png)
+
 
 
 
