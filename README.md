@@ -7,3 +7,10 @@
 
 ![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/0ccce75f56601f578a3e6d96d20fdcf698f375c2/ex89.png)
 
+## How to avoid this N/A Error in VLookup()?    
+Solution: We can avoid this by using Iferror() in Excel    
+=IFERROR(VLOOKUP(K3,A3:D15,3,FALSE),"Not found")
+
+
+
+
