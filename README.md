@@ -3,4 +3,6 @@
 =VLOOKUP(K3,A3:D15,3,FALSE)    
 ![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/4535d99e818cd4a36be77a9bc001f9cd2a80fd73/ex88.png)
 
+## If we are looking for the data that is not available, what would be the case?
+
 
