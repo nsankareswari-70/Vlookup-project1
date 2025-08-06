@@ -16,6 +16,11 @@ Solution: We can avoid this by using Iferror() in Excel
 =VLOOKUP(K6,A3:D15,2,FALSE)     
 ![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/06d8886425c96e2098770259ad85a86f1edd25c4/ex91.png)
 
+## To find the location of a particular value in a range and get its index - We use the Match function
+
+=MATCH(K9,C3:C15,0)   
+
+
 
 
 
