@@ -39,7 +39,7 @@ Ans : 9
    1316
 6. Who made more sales - Jamie or Jackie?
    
-   [!img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/1a2a91e0fdfd6b87205ce0f3f2fef58658fee415/ex93.png)
+   ![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/1a2a91e0fdfd6b87205ce0f3f2fef58658fee415/ex93.png)
    
    
    
