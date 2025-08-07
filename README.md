@@ -29,9 +29,9 @@ Ans: 1088
 =VLOOKUP(K6,A3:D15,2,FALSE)     
 Ans : 9    
 
-3. What is the profit of Jessy?
-   =VLOOKUP(D17,A3:D15,4,FALSE)
-   Ans: 236
+3. What is the profit of Jessy?    
+   =VLOOKUP(D17,A3:D15,4,FALSE)     
+   Ans: 236   
 4. 
    
 
