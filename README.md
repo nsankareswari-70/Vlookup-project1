@@ -32,7 +32,12 @@ Ans : 9
 3. What is the profit of Jessy?    
    =VLOOKUP(D17,A3:D15,4,FALSE)     
    Ans: 236   
-4. 
+4. How many customers did Joshua have?    
+   N/A (Joshua is not available in the range
+
+5. 
+   
+   
    
 
    
