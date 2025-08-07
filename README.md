@@ -41,6 +41,20 @@ Ans : 9
    
    ![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/1a2a91e0fdfd6b87205ce0f3f2fef58658fee415/ex93.png)   
    Ans : Jamie made more sales than Jackie
+
+7. Sales per customer for Jagjit?    
+   =VLOOKUP(B30,A3:D15,3,FALSE)/VLOOKUP(B30,A3:D15,2,FALSE)
+8. What is the profit % for Jonathan
+Profit % = (profit/Net sales)*100
+=(VLOOKUP(A23,A3:D15,4,FALSE)/VLOOKUP(A23,A3:D15,3,FALSE))*100
+Ans: 32.49
+
+
+
+
+
+
+
    
    
    
