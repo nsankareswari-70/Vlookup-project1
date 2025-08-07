@@ -44,10 +44,10 @@ Ans : 9
 
 7. Sales per customer for Jagjit?    
    =VLOOKUP(B30,A3:D15,3,FALSE)/VLOOKUP(B30,A3:D15,2,FALSE)
-8. What is the profit % for Jonathan
-Profit % = (profit/Net sales)*100
-=(VLOOKUP(A23,A3:D15,4,FALSE)/VLOOKUP(A23,A3:D15,3,FALSE))*100
-Ans: 32.49
+8. What is the profit % for Jonathan    
+Profit % = (profit/Net sales)*100    
+=(VLOOKUP(A23,A3:D15,4,FALSE)/VLOOKUP(A23,A3:D15,3,FALSE))*100    
+Ans: 32.49    
 
 
 
