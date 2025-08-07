@@ -35,7 +35,11 @@ Ans : 9
 4. How many customers did Joshua have?    
    N/A (Joshua is not available in the range
 
-5. 
+5. How many sales did Jonathan make?
+   1316
+6. Who made more sales - Jamie or Jackie?
+   
+   
    
    
    
