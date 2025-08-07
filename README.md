@@ -21,6 +21,20 @@ Solution: We can avoid this by using Iferror() in Excel
 =MATCH(K9,C3:C15,0)   
 ![img alt](https://github.com/nsankareswari-70/Vlookup-project1/blob/ac53835e3c617048f29ebfc0ce92c97f123578ad/ex92.png)
 
+## Questions
+1. How many sales did John make?
+=VLOOKUP(C17,A3:D15,3,FALSE)
+Ans: 1088
+2. How many customers did Jammy have?
+=VLOOKUP(K6,A3:D15,2,FALSE)
+Ans : 9
+
+
+   
+
+   
+
+
 
 
 
